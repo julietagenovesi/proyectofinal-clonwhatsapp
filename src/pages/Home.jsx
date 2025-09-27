@@ -1,7 +1,4 @@
-
-
-
-function App() {
+const Home = () => {
   return (
     <>
       <header></header>
@@ -11,4 +8,4 @@ function App() {
   )
 }
 
-export default App
+export default Home
