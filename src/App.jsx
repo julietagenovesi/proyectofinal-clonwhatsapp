@@ -1,12 +1,11 @@
-
+import _default from "./pages/Home"
 
 
 function App() {
   return (
     <>
-      <header></header>
-      <main></main>
-      <footer></footer>
+      <Home />
+
     </>
   )
 }

@@ -1,9 +1,15 @@
+import Header from "../Components/Header"
+import Banner from "../Components/Banner"
+import Footer from "../Components/Footer"
+
 const Home = () => {
   return (
     <>
-      <header></header>
-      <main></main>
-      <footer></footer>
+      <Header />
+      <main>
+        <Banner />
+      </main>
+      <Footer />
     </>
   )
 }
